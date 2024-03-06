@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    ".vscode": false,
+    "node_modules": false,
+    ".editorconfig": false,
+    ".gitignore": false,
+    ".npmrc": false,
+    "CODEOWNERS": false,
+    "LICENSE": false,
+    "package-lock.json": false
+  },
+  "npm-scripts.showStartNotification": false,
+  "workspace.isHidden": true,
+  "workspace.disableCounter": true,
+  "workspace.disableColoring": false,
+  "workspace.alwaysShowToggle": true,
+  "workspace.statusbarPriority": 0
+}
