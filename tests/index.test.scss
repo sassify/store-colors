@@ -1,0 +1,10 @@
+@use '../index.scss' as colors;
+
+.text-warning {
+	color: colors.$md-red--500;
+}
+
+.card {
+	background-color: colors.$md-grey--200;
+	color: colors.$md-grey--900;
+}

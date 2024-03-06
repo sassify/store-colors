@@ -1,0 +1,10 @@
+.github/
+.vscode/
+docs/
+tests/
+
+.editorconfig
+.gitignore
+.npmignore
+.npmrc
+CODEOWNERS
