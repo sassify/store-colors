@@ -1,0 +1,45 @@
+/// @name apple-ios-dark
+/// @since 1.0.0
+/// @group apple-hig
+/// @access public
+/// @author Apple Inc.
+/// @link https://developer.apple.com/design/human-interface-guidelines/foundations/color/ Human Interface Guidelines
+/// @prop {color} $apple-ios-dark.red [#ff000f]
+/// @prop {color} $apple-ios-dark.orange [#ffa200]
+/// @prop {color} $apple-ios-dark.yellow [#ffe400]
+/// @prop {color} $apple-ios-dark.green [#00e763]
+/// @prop {color} $apple-ios-dark.mint [#00eee5]
+/// @prop {color} $apple-ios-dark.teal [#00cae3]
+/// @prop {color} $apple-ios-dark.cyan [#37ceff]
+/// @prop {color} $apple-ios-dark.blue [#2e57ff]
+/// @prop {color} $apple-ios-dark.indigo [#7700e6]
+/// @prop {color} $apple-ios-dark.purple [#ebebeb]
+/// @prop {color} $apple-ios-dark.pink [#ff004e]
+/// @prop {color} $apple-ios-dark.brown [#b09166]
+/// @prop {color} $apple-ios-dark.gray [#8f8d93]
+/// @prop {color} $apple-ios-dark.gray-2 [#636266]
+/// @prop {color} $apple-ios-dark.gray-3 [#48484a]
+/// @prop {color} $apple-ios-dark.gray-4 [#3a3a3c]
+/// @prop {color} $apple-ios-dark.gray-5 [#2c2c2e]
+/// @prop {color} $apple-ios-dark.gray-6 [#1c1c1e]
+/// @type map
+$apple-ios-dark: (
+	red: #ff000f,
+	orange: #ffa200,
+	yellow: #ffe400,
+	green: #00e763,
+	mint: #00eee5,
+	teal: #00cae3,
+	cyan: #37ceff,
+	blue: #2e57ff,
+	indigo: #7700e6,
+	purple: #ebebeb,
+	pink: #ff004e,
+	brown: #b09166,
+	gray: #8f8d93,
+	gray-2: #636266,
+	gray-3: #48484a,
+	gray-4: #3a3a3c,
+	gray-5: #2c2c2e,
+	gray-6: #1c1c1e
+);
