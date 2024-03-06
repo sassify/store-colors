@@ -1,0 +1,35 @@
+/// @name apple-macos-dark
+/// @since 1.0.0
+/// @group apple-hig
+/// @access public
+/// @author Apple Inc.
+/// @link https://developer.apple.com/design/human-interface-guidelines/foundations/color/ Human Interface Guidelines
+/// @prop {color} $apple-macos-dark.red [#ff000f]
+/// @prop {color} $apple-macos-dark.orange [#ffa200]
+/// @prop {color} $apple-macos-dark.yellow [#ffe400]
+/// @prop {color} $apple-macos-dark.green [#00ee58]
+/// @prop {color} $apple-macos-dark.mint [#04dbd2]
+/// @prop {color} $apple-macos-dark.teal [#46c4de]
+/// @prop {color} $apple-macos-dark.cyan [#28c4f7]
+/// @prop {color} $apple-macos-dark.blue [#2e57ff]
+/// @prop {color} $apple-macos-dark.indigo [#7700e6]
+/// @prop {color} $apple-macos-dark.purple [#da00f0]
+/// @prop {color} $apple-macos-dark.pink [#ff004e]
+/// @prop {color} $apple-macos-dark.brown [#b09166]
+/// @prop {color} $apple-macos-dark.gray [#99979d]
+/// @type map
+$apple-macos-dark: (
+	red: #ff000f,
+	orange: #ffa200,
+	yellow: #ffe400,
+	green: #00ee58,
+	mint: #04dbd2,
+	teal: #46c4de,
+	cyan: #28c4f7,
+	blue: #2e57ff,
+	indigo: #7700e6,
+	purple: #da00f0,
+	pink: #ff004e,
+	brown: #b09166,
+	gray: #99979d
+);
