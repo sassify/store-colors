@@ -54,7 +54,7 @@ npm install --save-dev @sassify/colors
 > Вся цветовая палитра из Sassify Colors задокументирована с помощью комментариев SassDoc. Документация доступна по [этой](https://sassify.github.io/colors/) ссылке.
 
 ## Сообщество
-У проекта Sassify нет какого-либо сервера в Discord, но есть канал в Telegram &mdash; [@sassify](https://t.me/sassify).
+У проекта Sassify нет какого-либо сервера в Discord, но есть Telegram &mdash; [@sassify](https://t.me/sassify).
 
 ## Версии
 Для обеспечения прозрачности цикла выпуска и стремления поддерживать обратную совместимость Sassify поддерживается в соответствии с рекомендациями [Semantic Versioning](https://semver.org/). Иногда я ошибаюсь, но я придерживаюсь этих правил, когда это возможно.
@@ -92,5 +92,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 ```
