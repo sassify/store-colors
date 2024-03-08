@@ -1,7 +1,5 @@
-<img src="https://github.com/sassify/type-of/blob/main/.github/images/sassify_logo_round.png?raw=true" width="96" height="96" align="right" alt="Логотип проекта Sassify">Sassify Colors
-===
-
-🎨 Набор различных цветовых палитр, предоставляемых в виде Sass-переменных (Variables) и карт (Maps).
+# 🎨 Sassify Colors
+Набор различных цветовых палитр, предоставляемых в виде Sass-переменных (Variables) и карт (Maps).
 
 ![Весрия пакета на npm](https://img.shields.io/npm/v/@sassify/colors?label=%40sassify%2Fcolors)
 ![Список языков](https://img.shields.io/github/languages/count/sassify/colors?color=%23ff0056)
@@ -14,11 +12,13 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/sassify/colors)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sassify/colors)
 
-```bash
-npm i @sassify/colors
+## Начало работы
+Для начала необходимо установить npm-пакет `@sassify/colors`:
+
+```sh
+npm install --save-dev @sassify/colors
 ```
 
-## Начало работы
 После установки зависимости в свой проект, импортируйте модуль Sassify Colors:
 
 ```scss
@@ -68,15 +68,29 @@ npm i @sassify/colors
 - всем тем у кого я учился (хоть я и не помню ваши имена).
 
 ## Лицензия
-Проект распространяется по свободной лицензии MIT, однако в проекте используются труды иных людей, чьё авторство я также обозначил в местах, где используется их код.
+Проект распространяется по свободной лицензии [MIT](./LICENSE), однако в проекте используются труды иных людей, чьё авторство я также обозначил в местах, где используется их код.
 
 ```
 MIT License
 
-Copyright (c) 2024 Haba Kudzaev <therteenten@inbox.ru>
-```
+Copyright (c) 2024 Haba Kudzaev (therteenten)
 
-> Если Вы нашли нарушение чьей-либо лицензии в моем проекте, то просьба написать мне:
-> - [Telegram](https://t.me/therteenten)
-> - [Электронная почта](mailto:therteenten@gmail.com?subject=Sassify)
-> - [VK](https://vk.com/therteenten)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+```
